@@ -1,1 +1,1 @@
-(https://raw.github.com/Dnpypy/console_todolist/blob/master/src/main/resources/screenshots/consoleTodoList.png
+![Alt text](https://raw.github.com/Dnpypy/console_todolist/blob/master/src/main/resources/screenshots/consoleTodoList.png)
